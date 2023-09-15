@@ -9,13 +9,13 @@ export const metadata: Metadata = {
 		default: "chronark.com",
 		template: "%s | chronark.com",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "Startup Founder & Software Engineer | Tech Entrepreneur",
 	openGraph: {
-		title: "chronark.com",
+		title: "My Portfolio",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
+			"Startup Founder & Software Engineer | Tech Entrepreneur",
 		url: "https://chronark.com",
-		siteName: "chronark.com",
+		siteName: "My Portfolio",
 		images: [
 			{
 				url: "https://chronark.com/og.png",
